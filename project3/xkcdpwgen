@@ -1,2 +1,1 @@
-#!/bin/bash
-java xkcdpwgen "$@"
+#!/usr/bin/python3
